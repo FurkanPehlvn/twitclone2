@@ -9,9 +9,9 @@
   padding-left: 5px;
 }
 .followers:hover {
-  background-color: gray;
+  background-color: rgb(187, 186, 186);
   color: white;
-  transition: color 100ms ease-out !important;
+  transition: color 100ms !important;
   margin-left: 0;
   margin-right: 0;
 }
@@ -50,5 +50,5 @@
 }
 
 .usernameP {
-  color: gray;
+  color: rgb(82, 82, 82);
 }
